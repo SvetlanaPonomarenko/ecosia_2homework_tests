@@ -1,0 +1,8 @@
+.pytest_cache
+.venv
+.idea
+tests/.pytest_cache
+tests/test_test.py
+tests/test_selene.py
+tests/__pycache__
+ecosia_tests/__pycache__
