@@ -4,4 +4,4 @@
 tests/.pytest_cache
 tests/test_test.py
 tests/__pycache__
-ecosia_tests/__pycache__
+ecosia_todomvc_tests/__pycache__
