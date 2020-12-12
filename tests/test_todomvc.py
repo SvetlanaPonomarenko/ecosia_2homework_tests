@@ -2,7 +2,7 @@ from selene import have
 from selene.support.shared import browser
 
 
-def test_complete_task():
+def test_complete_todo():
     browser.open('http://todomvc.com/examples/emberjs/')
 
     browser.element('#new-todo').type('a').press_enter()
